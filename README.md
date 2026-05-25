@@ -48,6 +48,7 @@ cd House-Price
 Install the required libraries:
 
 pip install -r requirements.txt
+
 ▶️ Run the Application
 
 Start the Streamlit app using:
