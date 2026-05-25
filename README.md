@@ -1,6 +1,7 @@
 🏠 House Price Prediction
 
 A Machine Learning project that predicts house prices based on various property features such as area, number of bedrooms, bathrooms, and location. This project uses regression algorithms to analyze housing data and estimate property prices accurately.
+
 Live App: https://house-price-nb3xqpyex6k9jwrdyldtt7.streamlit.app/
 
 📌 Project Overview
